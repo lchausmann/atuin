@@ -11,7 +11,6 @@ use atuin_client::settings::Settings as ClientSettings;
 use atuin_common::utils::uuid_v4;
 use atuin_server::settings::Settings as ServerSettings;
 
-mod event;
 mod history;
 mod import;
 mod init;
